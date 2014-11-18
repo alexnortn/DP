@@ -22,7 +22,7 @@ Everyday more people move to cities; the urban landscape _is most definitely the
 IDEAS / CONCEPTS
 
 NoT && IoT || FoT;
-Projection Mapping in a dark room, use physical objects to 'interact';
+Projection Mapping in a dark room, use physical objects to 'interact'
 Physical Computing, or Pervassive Computing as a way to _pipe this IoT world back into a NoT one.
 
 
