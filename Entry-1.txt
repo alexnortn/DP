@@ -1,0 +1,21 @@
+Whats the Point?
+
+  Boxie : ]
+  MIT Media Lab --> Responsive Environments
+  Alex Reben
+  
+  http://labcast.media.mit.edu/?p=206
+  http://resenv.media.mit.edu/Boxie/
+
+==
+
+I remember during a session of my Information Architecture I class, my professor Brian Lucid, was voicing some thoughts on the MIT Media Lab. He generally felt that the Media Lab was moving in a not-so-good direction of commercializing products instead of making artful things. I would agree with him, but naturally I feel there is always a balance- Commercialization allows us to reach a larger audience, secure more funding for our work, and potentially keep us fed. Regardless, I believe in the place. 
+
+To the point:
+Brian was explaining how one clever reseacher was tasked to design a robot that could successfully navigate a staircase. The researcher was given loads of funding and had the full power of the M.L at his finger tips. You would have expected him to build some really advanced robot that could articulate in such a way as to easily complete the task. Instead what you got was Boxie the friendly robot. 
+
+Boxie was not designed to climb up the stairs, it was certainly not capable at this, however Boxie was* small, lightweight, and very, very approachable. Alex designed a robot that would intentionally get lost or stuck- then proceed to call out for help. Instead of designing a very capable robot, Alex designed a very cute one. 
+
+This project begs the question- what is the point of it all? Sometimes you just have to accept that things are impossible- at least from a certain perspective. Maybe they're not impossible but there might just be a simpler way to go about it, another way to tackle you problem, tell your stoy, or touch people. For me, Boxie is that perfect example. A clever and creative solution that feels. Humanizing technology, instead of computerizing humans; lovely.
+
+Alex
