@@ -23,6 +23,8 @@ The fastest microprocessors complete over 5 million cycles per second -a totally
 
 I am profoundly interesting Humanizing the front-end (the graphical interfaces, and interactive elements of technology).
 
+Design a series of small experiments exploring the interplay+reaction between computers+people. The method
+
 NoT && IoT || FoT;
 
 ==
