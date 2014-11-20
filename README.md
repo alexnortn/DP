@@ -17,12 +17,57 @@ Everyday more people move to cities; the urban landscape _is most definitely the
   ?> Why own a car when you can Uber or Lyft?
   ?> Sustainable urban transport systems like Hubway dramatically increase the accessiblity of a city.
 
-==
+How will the profusion of physical computing effect our expectations and long held ideas on meaning and value of technology?
 
-IDEAS / CONCEPTS
+The fastest microprocessors complete over 5 million cycles per second -a totally unfathomably number. While all those cycles are massively powerful, they are often overwhelming. 
+
+I am profoundly interesting Humanizing the front-end (the graphical interfaces, and interactive elements of technology).
 
 NoT && IoT || FoT;
-Projection Mapping in a dark room, use physical objects to 'interact'
-Physical Computing, or Pervassive Computing as a way to _pipe this IoT world back into a NoT one.
+
+==
+
+Influences
+
+
+Japanese Design 
+				- WA
+				- Emptiness
+				- Reductionism
+				- Materiality
+				- Connectivity
+				- Emergent System Theory
+				- Architecure
+				- Fabrication
+				- Robotics
+				- Making
+				- Being
+				- Data Transformation
+				- Interaction
+				- Neuroscience
+
+	Masashi Kawamura - PARTY studio JP // NY
+	Kenya Hara 
+	Neri Oxman
+	Hiroshi Ishi
+	Sol Lewitt
+	Allen Turing
+	Ben Fry // Fathom
+	Ken Larson
+
+	Big Hero 6!
+		It was super inspiring, but mostly  because of the really high quality renderings!
+
+
+	==
+
+	IDEAS / CONCEPTS
+
+
+	Projection Mapping in a dark room, use physical objects to 'interact'
+
+	Physical Computing, or Pervassive Computing as a way to _pipe this IoT world back into a NoT one.
+
+	Slow Game // That mentality. 
 
 
