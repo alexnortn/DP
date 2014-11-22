@@ -17,5 +17,14 @@ Build an array of super simple 'agents' who can individually do about nothing -b
 DNA --what could I do with all of this?
         --or with anyones?
         -- visualizing your genetic code,,,
+        --I suppose that Ben Fry sort of approaches this idea? But its still very inhuman..how could this be translated?
+        --Neurobiology, Biological Systems,Computational Biology
+        --Genetic Algorithms
+        --Neural Networks <ANN> <CNN>
+        --Machine Learning
+But recall that it's important to remember people- I mean this is super cool+complex even ground breaking; need to connect to people
+
+You're diving too deep, I would say.
 
 Claustrome--consciousness
+
