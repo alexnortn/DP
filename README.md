@@ -72,4 +72,18 @@ Japanese Design
 
 	Slow Game // That mentality. 
 
+	==
+
+	MENTALITY // PROCES
+
+	I've never found it difficult to engage in a really large project. I'm very capable at diving in head first and learning all that I can learn. I am confident that given enough time anything is possible. Unfortunately time is sort of an expensive commodity. Learning to work within a certain time frame could be incredibly benificial. What if I was tasked to develop+prototype engaging work in only 2 weeks? Is that enough time to make significant progress on a single idea? To at least make an effort at raising quesitons or awareness?
+
+	The projects wouldn't be standing alone. I guess the smaller projects would all sort of sit within a larger umbrella idea. In effect, each micro project would be an essential component to something much larger. Emergent systems: The whole is greater than the sum of it's parts; when you bring all these simple experiments together, one is able to glean just that much more!
+
+	IT is crucially important that this all be documented. I will design a modularizedweb framework that allows for exceptional documentation of my work; this will evolve to be my personal work site :]
+
+	Alex
+
+
+
 
