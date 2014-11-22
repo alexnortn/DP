@@ -5,27 +5,27 @@ Undergraduate Degree Project
 
 ==
 
-So there's just no way that my degree project won't leverage the power of programming. Programming allows me to not only reach a far broader audience, it also allows me to pull from a larger variety of people, places, & things. The internet is a wonderful thing. 
+	So there's just no way that my degree project won't leverage the power of programming. Programming allows me to not only reach a far broader audience, it also allows me to pull from a larger variety of people, places, & things. The internet is a wonderful thing. 
 
-Somehow, I can't help but miss a time when things were a bit simpler..
+	Somehow, I can't help but miss a time when things were a bit simpler..
 
-What about a time when there was pleasure to be had in the wilderness, exploring far ranging spaces, interacting with the Nature of Things (NoT), as a opposed to living within the ubiquitous Internet of Things (IoT)?
+	What about a time when there was pleasure to be had in the wilderness, exploring far ranging spaces, interacting with the Nature of Things (NoT), as a opposed to living within the ubiquitous Internet of Things (IoT)?
 
-David Rose said it best when he explained the value in the _legacies of his grand fathers tools. Something about having a  specific tool for each and every task is a really beautiful way to live. However, it is certainly not sustainable.
+	David Rose said it best when he explained the value in the _legacies of his grand fathers tools. Something about having a  specific tool for each and every task is a really beautiful way to live. However, it is certainly not sustainable.
 
-Everyday more people move to cities; the urban landscape _is most definitely the future of things (FoT). We're already seeing this New Communism+Socialism in the form of reduced private ownership in favor of shared-use services.
-  ?> Why own a car when you can Uber or Lyft?
-  ?> Sustainable urban transport systems like Hubway dramatically increase the accessiblity of a city.
+	Everyday more people move to cities; the urban landscape _is most definitely the future of things (FoT). We're already seeing this New Communism+Socialism in the form of reduced private ownership in favor of shared-use services.
+	  ?> Why own a car when you can Uber or Lyft?
+	  ?> Sustainable urban transport systems like Hubway dramatically increase the accessiblity of a city.
 
-How will the profusion of physical computing effect our expectations and long held ideas on meaning and value of technology?
+	How will the profusion of physical computing effect our expectations and long held ideas on meaning and value of technology?
 
-The fastest microprocessors complete over 5 million cycles per second -a totally unfathomably number. While all those cycles are massively powerful, they are often overwhelming. 
+	The fastest microprocessors complete over 5 million cycles per second -a totally unfathomably number. While all those cycles are massively powerful, they are often overwhelming. 
 
-I am profoundly interesting Humanizing the front-end (the graphical interfaces, and interactive elements of technology).
+	I am profoundly interesting Humanizing the front-end (the graphical interfaces, and interactive elements of technology).
 
-Design a series of small experiments exploring the interplay+reaction between computers+people. The method
+	Design a series of small experiments exploring the interplay+reaction between computers+people. The method
 
-NoT && IoT || FoT;
+	NoT && IoT || FoT;
 
 ==
 
@@ -65,7 +65,7 @@ Japanese Design
 
 	==
 
-	IDEAS / CONCEPTS
+IDEAS / CONCEPTS
 
 
 	Projection Mapping in a dark room, use physical objects to 'interact'
@@ -76,7 +76,7 @@ Japanese Design
 
 	==
 
-	MENTALITY // PROCES
+MENTALITY // PROCES
 
 	I've never found it difficult to engage in a really large project. I'm very capable at diving in head first and learning all that I can learn. I am confident that given enough time anything is possible. Unfortunately time is sort of an expensive commodity. Learning to work within a certain time frame could be incredibly benificial. What if I was tasked to develop+prototype engaging work in only 2 weeks? Is that enough time to make significant progress on a single idea? To at least make an effort at raising quesitons or awareness?
 
@@ -84,9 +84,34 @@ Japanese Design
 
 	IT is crucially important that this all be documented. I will design a modularizedweb framework that allows for exceptional documentation of my work; this will evolve to be my personal work site :]
 
-Permanence- what does it mean when we solidify something so strongly that it never could change.
+	Permanence- what does it mean when we solidify something so strongly that it never could change.
 
-Talking about man made structures, products, and ideas!
+	Talking about man made structures, products, and ideas!
+
+	==
+
+Form // Function
+
+	Polymer
+	D3
+	Physics Js
+	Angular Js
+
+	What about learning a new language?
+		Python seems very useful
+		What is Ruby?
+		OperFrameworks lets me learn a bit of C++ which is very powerful
+
+	AJAX still confuses me a bit, understanding the 'DATA' variable in Js
+
+	Instead of developing a web app from the ground up, consider making use of existing web frameworks. Its not about slacking off, but its really about leveraging work that has already been done.
+
+	Stand on the shoulders of giants.
+
+	Additionally becoming more capable at rapid prototyping of concept to development to excecution is really really important!
+
+	==
+
 
 	Alex
 
