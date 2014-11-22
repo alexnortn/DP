@@ -82,6 +82,10 @@ Japanese Design
 
 	IT is crucially important that this all be documented. I will design a modularizedweb framework that allows for exceptional documentation of my work; this will evolve to be my personal work site :]
 
+Permanence- what does it mean when we solidify something so strongly that it never could change.
+
+Talking about man made structures, products, and ideas!
+
 	Alex
 
 
