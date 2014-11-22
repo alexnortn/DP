@@ -56,6 +56,8 @@ Japanese Design
 	Allen Turing
 	Ben Fry // Fathom
 	Ken Larson
+       Google
+       Quid
 
 	Big Hero 6!
 		It was super inspiring, but mostly  because of the really high quality renderings!
