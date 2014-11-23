@@ -1,0 +1,65 @@
+Neuroscience + Gamified Learning
+Who said that learning has to be so cut and dr?
+
+  References:
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+
+==
+
+Explore the core topics of Neuroscience, through the lens of DESIGN
+
+  -Perception
+  -Learning
+  -Memory
+  -Reasoning
+
+==
+
+Design* a series of small experiments to communicate the core concepts in each of these fields.
+  Learning through gamification if a central theme
+
+  Form follows function?
+  The method is in the medium?
+
+  Let's just say that, (at this momemnt) I have no preconcieved objectives regarding the construction and production of this project.
+
+    Is it worth considering how this work would scale?
+
+    Yes.
+
+    The project may use advanced fabrication techniques, (Laser Cutting, CNC Routing, 3D Printing) but the project format, and assembly should be designed in such a way that is inexpensive, and reproducable by a modest skill set.
+
+    Applying these limitations helps to inform the final product. Sometimes limiting oneself can be incredibly helpful!
+
+  The form of the experiments is to develop a series of experiments.
+
+    Define objectives, such as "learn about perception by interacting with an object or interface"
+
+    Naturally there would be supporting literature, but it would be accessible through a system of progressive dislosure. The games almost serve as a jumping off point, a place to get people motivated about learning more on the subject.
+
+    I want to make sure that this isn't too* base level. I mean I'm not trying to do a project on education, but education through well-designed experiences is sort of interesting.
+
+    Hmm.
+
+    Worth a thought.. or three.
+      I guess Shou's book was helpful..
+
+
+==
+
+Perhaps I could even team up with Sebastian, or another Neuroscientist to help me with this project. It would be really really interesting if this project could scale up to help people learn about these topics, don't you think?
+
+Why not work closely with an expert to ensure that what I'm working on is legitimate and accurate!
+
+==
+
+Alex
+
+
