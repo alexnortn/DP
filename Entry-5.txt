@@ -1,8 +1,22 @@
 Neuroscience + Gamified Learning
 Who said that learning has to be so cut and dr?
 
+Often, designers are asked to find ways to explain complex information, (reduce) or recontextulize. This project seeks to understand how neuroscience + cognition can be applied through the lens of design to craft better experiences.
+  
+  Appications of this project include:
+    -Onboarding (for apps + games)
+    -Tutorials (immediate learning curves)
+      I am particularly intersted in developing better systems to teach people about new environments.
+    -Removing false pretenses
+    -General Learning
+    -Focus
+    -Reduction
+
   References:
-    -
+    "We know that the brain does not function as a set of independent areas, but as a network of specialized areas that collaborate."
+      -Barry Van Veen
+      -"Imagination, reality flow in opposite directions in the brain"
+        http://medicalxpress.com/news/2014-11-reality-brain.html#ajTabs
     -
     -
     -
@@ -57,6 +71,16 @@ Design* a series of small experiments to communicate the core concepts in each o
 Perhaps I could even team up with Sebastian, or another Neuroscientist to help me with this project. It would be really really interesting if this project could scale up to help people learn about these topics, don't you think?
 
 Why not work closely with an expert to ensure that what I'm working on is legitimate and accurate!
+
+Remember that becoming a master in any one of this respective fields would require a lifetime of effort. It would be naive of me to think that given 3 months of research+design that I would be able to make promising conjectures towards an advancement of our understanding of these materials.
+  
+Focus --> Specific
+  
+  Perhaps this project could grow beyond the bounds of a single degree project. My future research could be rooted in what I am able to 'start' with this project...
+
+  Similar to Talia's adaptive architecture + spacial reasoning project from undergrad.
+
+  Instead of attempting to kill all [4] topics at once, create a collection of supporting literature that points to a future toolkit for designers + innovators. Using these methods to develop better products + experiencs. For your DP_ seek to fully, (or as fully as possible!) develop a singular portion of this toolkit.
 
 ==
 
