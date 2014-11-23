@@ -39,6 +39,8 @@ Japanese Design
 				- Materiality
 				- Connectivity
 				- Emergent System Theory
+				- Systems Biology*
+				- Network Science*
 				- Architecure
 				- Fabrication
 				- Robotics
@@ -47,6 +49,8 @@ Japanese Design
 				- Data Transformation
 				- Interaction
 				- Neuroscience
+
+**The models are the latest application of a rapidly growing field, called network science — which uses visualizations to find the underlying patterns and trends in complex data sets.
 
 	Masashi Kawamura - PARTY studio JP // NY
 	Kenya Hara 
@@ -96,6 +100,7 @@ Form // Function
 	D3
 	Physics Js
 	Angular Js
+	Three Js
 
 	What about learning a new language?
 		Python seems very useful

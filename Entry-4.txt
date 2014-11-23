@@ -46,3 +46,4 @@ Sythensize information -creating something from scratch
 	Quid!
 		So epic..
 
+My project is not attempting to change the game as far as predictive computing, analysis and statistics. Brin
