@@ -88,6 +88,17 @@ This theory of course sits on top of a complex systems framework where the  conv
 
 ==
 
+When creating an outline for the research+design process, don't forget to build in multiple levels of completion!
+
+     - Supporting web presence
+     - Sufficient user testing
+     - Iteration
+     - Exploration 
+
+     - Levels of completion // a steady work diet
+
+==
+
 Alex
 
 
