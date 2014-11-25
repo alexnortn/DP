@@ -1,0 +1,77 @@
+Refining Research
+
+==
+
+  Alex
+
+    As much as you want to be a computer scientist. As much as you want to design ground-breaking complexities and evolving systems.
+
+    Remember.
+
+    You are a designer.
+
+    You are working towards being a master of reduction.
+
+    In story telling, reduction is supreme. Focusing your points and eliminating the extraneous.
+
+    Do not lose sight.
+
+    This will guide you.
+
+==
+
+  Ben Fry's masters thesis is particularly inspiring.
+    - Organic Information Design
+      + His designs may be a little dated but his ideas are still on point. I would argue that although they are beginning to take root, nearly 15 years since publication, there is still much to be gleaned from the work!
+    - In accordance with this natural systems approach to information design, is it possible that each component of my project could be in support of the whole?
+      + Very intriguing!
+      + How powerful!
+    - Respect Ben's analogy:
+      + Organels --> Cell --> Tissue --> Organ --> Organ System --> Human
+      + Design should be supportive in the same ways!
+    - A class on systems biology would be really helpful!
+
+==
+
+  Thus far you have developed a specific type of architecture for your research.
+
+  A series of design experiments built to tackle issues relating to learning+cognition.
+
+  Using an emergent structure here allows for a set of relatively simple explorations converge towards a more powerful whole.
+    - The whole is greater than the sum of its parts
+
+==
+
+  Find yourself exploring topics of:
+    - Learning
+    - Cognition
+    - Design 
+    - Systems
+    - Biology
+      + Computational Biology
+      + Life
+        - Short v Long Term Adaptation
+      + System Theory
+     + Clustering
+    - Interaction
+
+  'Movement is the key indicator for what a being is thinking. It helps to describe feelings or intentionality. Of course these attributes are not always present in the system, because machines of this kind are not capable of having feelings or intentionality.'
+
+  "Beacause of the way the human visual system has evolved, movement can immediately attract attention and control focus."
+
+  ***
+    Reproducable gaming experiences, built on the framework of biological systems.
+
+    When you look into any complex topic like this through the lens of design... You realize that subtlety is everything.
+
+    The rules can be based around a simulation, or rather an approximation of natural systems, but the form should follow function. Always -purpose first. The emergent system technique is helpful as a starting point.
+
+    Gosh.
+
+    Please make sure this relates back to people...
+
+  ***
+
+==
+
+Alex
