@@ -2,6 +2,8 @@ Neuroscience + Gamified Learning
 Who said that learning has to be so cut and dr?
 
 Often, designers are asked to find ways to explain complex information, (reduce) or recontextulize. This project seeks to understand how neuroscience + cognition can be applied through the lens of design to craft better experiences.
+
+I offer a++ for this concept. It allows me to use relevant science in the back end, but solid ux design discipline in the forefront! Relevant to all aspects of my life! Could be a badass toolkit!
   
   Appications of this project include:
     -Onboarding (for apps + games)
