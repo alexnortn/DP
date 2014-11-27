@@ -4,7 +4,7 @@ Fail Swiftly & Often
 Responsive Experiences
   ^ That's why technology
 
-Emergent Design-
+Emergent Design
 
 ==
 
@@ -18,7 +18,7 @@ Emergent Design-
 
     You are working towards being a master of reduction.
 
-    In story telling, reduction is supreme. Focusing your points and eliminating the extraneous.
+    In story telling, reduction is supreme. Focusing your points and eliminating the extraneous. The system can be complex, as in the richness of experience, but never allow this to leak into the front-end!
 
     Do not lose sight.
 
