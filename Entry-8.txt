@@ -1,0 +1,62 @@
+This entry builds on many of the ideas developed in Entry-6
+
+Refining Research
+Fail Swiftly & Often
+
+Responsive Experiences
+  ^ That's why technology
+
+Emergent Design
+
+==
+
+Over ThanksGiving break, I drove my 1997 Subaru Outback. The Vehicle has over 235,000 miles, but it still drives. The car has been compromised in many ways; a broken fender, no reverse lights, the odometer + speedometer are no longer functioning... 
+
+Still
+
+The car is able to safely carry my from point A to B. 
+
+There is something really beautiful in the prolonged usefulness of mechanical technology. It's like the devices have a purpose and fullfill this purpose so well that the attrophy of time is actually inconsequenial.
+
+	This is true for many tools, articles of clothing, furniture, and books
+
+	Should technology be designed with timelessness in mind? 
+
+	What if it were designed this way? 
+
+	Doesn't that go completely against all that it stands for?
+
+Personally, I prefer to drive a standard rather than an automatic transmission. This way I feel a greater connection with the experience of driving; it becomes more *haptic*
+
+Many of the most expensive cars, dogs, and similar are considered to be 'high maintenance' items. Their owners take pride in the effort required to keep them in tip top condition. Consider an extreme case: Toyota Camery vs. Formula One Racecar. True, the Camery, (with minor upkeep) will run more or less indefinitely. Conversely, the F-1 racer will require daily -hourly tune-ups to maintain precision operation. 
+
+	Which would you prefer?
+
+Sort of a biased question, as each item serves an entirely different purpose.
+
+	Did that digression make any sense?
+
+==
+
+Monument Valley continues to be the most perfectly crafted experience that I have seen.
+
+	I am of course refering to the in-game experience; not the menu system.
+
+	Learning through gamification is so promising. Creating simple puzzles that are actually really easy to solve allows the users to glean a number of really important things.
+
+		Alright, So I don't know what these things are off the top of my head, but I've definitely read enough Behavioural/Cognitive Psychology to recognize that this strategy activates some really powerful parts of the brain.
+
+So how do you design a game like Monument Valley, but make it both physical and interactive?
+
+Is that sort of a force, or do we think there is a future in this kind of "Bits & Atoms" thinking?
+
+	The Media Lab sure things so :P
+
+Designing fun, yet challenging puzzles,,, creating a sort of metaphor around it, the way that MV leverages low-poly paradoxial architecture..
+
+Is it valuabe to relate all these items back to learning? Or something that creates value somewhere else?
+
+That's the moment where 'Experience' + 'Gamification' + 'Learning' collide.
+
+	What is this! HA
+
