@@ -1,0 +1,117 @@
+Organic Interaction Design (OID)
+
+Inspired by Ben Fry's masters thesis "Organic Information Design"
+
+	Machine Learning (ML)
+	Computer Vision (CV)
+	Genetics
+	Computational Biology
+
+==
+
+	In his 2001 thesis, "Organic Information Design," Ben Fry explores the possibilites of representing large, complex volumes of data by simulating natural systems.
+
+	His plots were incredible! Especially when we consider their implementation of over 10 years ago! 
+
+	I would argue that Ben set out on a noble endeavour, but his efforts may have been misguided. The visualizations that he produced were primarily concerned with leveraging compuational power- less about generating easily understandable graphics. He states that he was interested in eliciting a qualitative response from purely quantitative data. This lends itself nicely to human interaction, less to scientific research; looking for emotional + empathetic response.
+
+==
+
+	One of my original ideas was to design a web-based system for adaptive optimization. How could your web page evolve to suit your needs better?
+
+	Consider *White*
+
+	Starting with a blank canvas, your 'object' or 'experience' grows towards your input metrics; it becomes a true I/O device in itself
+
+		"Machine Learning, the technology that enables computational systems to adaptively improve their performance with experience accumulated from the observed data."
+
+		-Learning From Data
+		-many authors
+
+	Why not leverage this power for the design of experience!
+
+==
+
+	These systems would 'naturally'
+
+		Evolve
+		Adapt
+		Change/Alter initial Goals
+
+		Learn
+		Explore
+		Ask 'new' Questions
+		'Optomize'
+
+		Engage
+		Emphasize
+		Articulate
+		Acknowledge
+
+		Play
+		Puzzle/Problem Solving
+		Joy
+		Entertainment
+
+		Nudge*
+
+
+==
+
+	Obvious cues:
+
+		Monument Valley
+		Slow Game
+		EyeWire
+		Chess
+		iSpy
+		Boxie
+		Pixar Lamp
+		Occulus --> Total Immersion
+		Gestural Lamp
+
+==
+
+	Which platform is right?
+		I have no idea...
+
+	Is 'immersion' important?
+
+	Do we consider 'flow' state?
+
+	What is the goal?
+		-To explore human/computer interaction?
+
+==
+
+	A recent fascination of mine is the speed of computation. Yes, computers are 'really' fast- that is really good for doing things like moving data around, crunching numbers; but it doesn't really help us understand them any better.
+
+	What if we slowed all that down a bit?
+
+	Designing interaction to be at the speed of humanity. Where people in conversation (would ideally..) spend equal time perceiving/receiving a converstaion then sending out their own thoughts.
+
+	I'm not suggesting that we slow down the internet- steaming media is wonderful-
+
+	I'm quesioning the speed/rate/pace of human computer interaction --> maybe that's one of th reasons that we feel 'less' connected.
+
+==
+
+	To wrap up
+
+	Back to this idea of 'Organic Interaction Design'
+						 'Ecological Interaction Design'
+
+	Genetics
+		-Biology. the science of heredity, dealing with resemblances and differences of related organisms resulting from the interaction of their genes and the environment.
+
+	Form 	Function
+
+	Designing systems inspired by natural processes, ecosystems; life
+
+	They exhibit organic behavior, but not necessarily organic 'form'
+
+	'OID'
+
+==
+
+	Alex
