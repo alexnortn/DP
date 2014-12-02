@@ -108,7 +108,7 @@ Inspired by Ben Fry's masters thesis "Organic Information Design"
 
 	Designing systems inspired by natural processes, ecosystems; life
 
-	They exhibit organic behavior, but not necessarily organic 'form'
+	They exhibit organic behavior, but not necessarily organic 'form.' I want to explore Natural Language Processing (NLP), but not limit this to speech, or text recognition; what if were applied this concept to Natural Interaction Processing (NIP). Much the way humans learn (very quickly) what the best way to interact with each other is, these systems would learn how to interact with the user, or each other based on context and environment.
 
 	'OID'
 
