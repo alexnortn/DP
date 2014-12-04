@@ -1,0 +1,33 @@
+Organic Interaction Design (OID)
+
+
+==
+
+	So I think one of the fundamental problems, if any that you're running into here, is that you're getting a little too caught up in what is technically possible, or what might be application of technology.
+
+	Instead of focusing on this, why no look for a place that is in need of design.
+
+	For Instance:
+
+		Wearable technology is creating a lot of buzz. Now currently, this technology is in it's infancy; instead of looking down upon this budding field and surmizing that because of the lack of good design, usable products, or elegant solutions that it's not worth considering. See it as an oppertunity to explore a field with little to no preconceived notions about what is possible.
+
+		Projects like MIT's MIMO wearable tech for infants and supporting app gives parents piece of mind about the well fare of their little ones.
+
+			- http://mimobaby.com
+			- http://www.sproutling.com
+			- http://www.nytimes.com/2014/12/04/technology/personaltech/smart-nurseries-track-a-babys-sleep-or-lack-thereof.html?partner=rss&emc=rss&_r=0
+
+		Yes, Machine Learning is a powerful tool to build useful predictions, but what are we predicting?
+
+==
+
+	Piece of mind vs. another gimmicy tech product?
+
+	How to build something that isn't necessarily timeless but explores a metaphore or topic that is totally human.
+
+	Working too hard often seperates you from the common struggles of people lol.
+
+==
+
+Alex
+
