@@ -36,6 +36,8 @@ Inspired by Ben Fry's masters thesis "Organic Information Design"
 
 		Evolve
 		Adapt
+		Natural Selection
+		Mutation
 		Change/Alter initial Goals
 
 		Learn
@@ -104,7 +106,7 @@ Inspired by Ben Fry's masters thesis "Organic Information Design"
 	Genetics
 		-Biology. the science of heredity, dealing with resemblances and differences of related organisms resulting from the interaction of their genes and the environment.
 
-	Form 	Function
+	Form --> Function
 
 	Designing systems inspired by natural processes, ecosystems; life
 
