@@ -1,0 +1,7 @@
+I am way too busy
+
+Proposal for a web/mobile, key here being mobile application that (probably already exists) that would parse blog/news aggregator sites and read to you the content, so that even when you're in transit, have your hands + eyes tied up; you can indugle your interwebs curiosity.
+
+==
+
+Alex
