@@ -16,6 +16,8 @@ Organic Interaction Design (OID)
 
 		- You create an emergent system.
 
+	The speed of computing --> [ (NoT) || (OiD) ] + (IoT) == (FoT)
+
 ==
 
 	But watch out for buzzwords, know what's out there, but more importantly, ask yourself what isn't out there *yet.
