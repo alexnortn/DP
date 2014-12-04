@@ -1,0 +1,23 @@
+Organic Interaction Design (OID)
+
+==
+
+	I think you have a really cool concept here.
+
+	It doesn't ask you to step out of your comfort zone, well it does! but it the right way.
+
+	You will explore the notion of Organic Information Design across both digital + tactile environments.
+
+		- How can interaction design be inspired by organic systems?
+
+	How can we build interfaces + objects whose behaviours feel natural + adaptive. We will focus more on the behavioral side of things, allowing the form to follow function. The critters form is not limited by natural form, it can certainly take inspiration from those places, but mostly we're concerned with the behaviours.
+
+	What happens when you assign sophistocated interaction to an apprently simple interface/object?
+
+		- You create an emergent system.
+
+	The speed of computing --> [ (NoT) || (OiD) ] + (IoT) == (FoT)
+
+==
+
+	But watch out for buzzwords, know what's out there, but more importantly, ask yourself what isn't out there *yet.
