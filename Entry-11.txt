@@ -1,0 +1,52 @@
+Organic Interaction Design (OID)
+	
+	Continuing the OID discourse from Entry-9
+
+	Inspired by Ben Fry's masters thesis "Organic Information Design"
+
+	Machine Learning (ML)
+	Computer Vision (CV)
+	Genetics
+	Computational Biology
+
+==
+
+	 It may be important to make a distinction between the kind of interactions that we'll be exploring. Perhaps it would be prudent to spend my spring semester (at Massart) focusing on OID with respect to GUI design. I am pursuing a degree in Graphic Design, the professors + student body will be more capable in offering relevant feedback if my work explores possibilites offered in these realms.
+
+	 Perhaps I could continue my work with Arduino's + Physical Computing somewhere at MIT? Continue your exploration of this stuff sort of part time as a possible beginning for your future career. It's sort of a waste of your $$$ + Time to be pursuing something like this at Massart where there is little relevant feedback or help available.
+
+	 For Massart, developing a web platform with a number of engaging interactive experiments could be a worthwhile endeavour. Following graduation, having really solid IA, UI + UX skills will seriously increase my value.
+
+	 	- HTML
+	 	- CSS
+	 	- JS
+	 		- Libraries
+		 		+ PhysicsJS
+		 		+ ThreeJs
+		 		+ Polymer
+		 		+ BrainJs --> Machine Learning
+		 		+ D3
+		 		+ Meteor
+		 		+ jQuery
+ 		- AJAX
+ 		- Python || C++
+
+	Let's just get really digital in our experience design platform, then ask questions about what sorts of design strategies, media techniques are possible when the environment becomes adaptive, evolutionary, and fitness driven. How quickly can we tailor experience?
+
+		For instance:
+
+		Given a really basic web page, it has a header, followed by [3] here images:
+
+		Could we use OpenCV to immediatly learn what the user is most interested in, then proceed to load the rest of the page with respect to that decision?
+
+		Your not necessarily changing the content- but effecting the order of presentation for maximum engagement!
+
+		Again, this is really easy when we curate all the content- optimization of a single site is easy, sort of. How do we deal with an evolving landscape like a personal blog or flickr page?
+
+==
+
+	Current sources, inspiration
+
+		The Grid
+			Artificially Intelligent website design
+			http://thegrid.io
