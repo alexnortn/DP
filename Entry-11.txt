@@ -4,6 +4,12 @@ Organic Interaction Design (OID)
 
 	Inspired by Ben Fry's masters thesis "Organic Information Design"
 
+	Also, Ben Fry's Doctoral Thesis "Computational Information Design."
+
+	This is not a Data Visualization project
+	It *may* be a Data Interaction project
+	I would like it to be specifically a OID project
+
 	Machine Learning (ML)
 	Computer Vision (CV)
 	Genetics
@@ -11,11 +17,40 @@ Organic Interaction Design (OID)
 
 ==
 
-	 It may be important to make a distinction between the kind of interactions that we'll be exploring. Perhaps it would be prudent to spend my spring semester (at Massart) focusing on OID with respect to GUI design. I am pursuing a degree in Graphic Design, the professors + student body will be more capable in offering relevant feedback if my work explores possibilites offered in these realms.
+	"Computational Information Design" which seeks to combine he multpiple discipines of Graphic Design, Computer Science, & Statistics together to create a better understanding of Data Visualization.
 
-	 Perhaps I could continue my work with Arduino's + Physical Computing somewhere at MIT? Continue your exploration of this stuff sort of part time as a possible beginning for your future career. It's sort of a waste of your $$$ + Time to be pursuing something like this at Massart where there is little relevant feedback or help available.
+	Ben suggests combining:
 
-	 For Massart, developing a web platform with a number of engaging interactive experiments could be a worthwhile endeavour. Following graduation, having really solid IA, UI + UX skills will seriously increase my value.
+		- Graphic Design
+		- Computer Science
+		- Statistics
+
+	What about adding in these to deal with people, the macro-scale interactions, and even aggregate tendancies:
+
+		- Neuroscience
+		- Cognitive Psychology
+		- Sociology
+
+	And use these tools to apply micro-scale systemic organization + clustering + emergence to macro scale interactions:
+
+		- Compuational Biology
+		- Physics
+==
+
+	Heuristic 
+
+	(/hjʉˈrɪstɨk/; Greek: "Εὑρίσκω", "find" or "discover")
+
+	Refers to experience-based techniques for problem solving, learning, and discovery that find a solution which is not guaranteed to be optimal, but good enough for a given set of goals. Where the exhaustive search is impractical, heuristic methods are used to speed up the process of finding a satisfactory solution via mental shortcuts to ease the cognitive load of making a decision. Examples of this method include using a rule of thumb, an educated guess, an intuitive judgment, stereotyping, profiling, or common sense.
+
+	More precisely, heuristics are strategies using readily accessible, though loosely applicable, information to control problem solving in human beings and machines.
+
+==
+	It may be important to make a distinction between the kind of interactions that we'll be exploring. Perhaps it would be prudent to spend my spring semester (at Massart) focusing on OID with respect to GUI design. I am pursuing a degree in Graphic Design, the professors + student body will be more capable in offering relevant feedback if my work explores possibilites offered in these realms.
+
+	Perhaps I could continue my work with Arduino's + Physical Computing somewhere at MIT? Continue your exploration of this stuff sort of part time as a possible beginning for your future career. It's sort of a waste of your $$$ + Time to be pursuing something like this at Massart where there is little relevant feedback or help available.
+
+	For Massart, developing a web platform with a number of engaging interactive experiments could be a worthwhile endeavour. Following graduation, having really solid IA, UI + UX skills will seriously increase my value.
 
 	 	- HTML
 	 	- CSS
@@ -45,8 +80,26 @@ Organic Interaction Design (OID)
 
 ==
 
+	Giving yourself a really solid foundation in these web technologies, and learning some basic algorithms for data parsing, and visualization will be paramount for your graduate research in 'TUI + Radical Atoms'
+
+	That's when you study Computational Biology + Genetics
+
+	Maybe then you can touch NodeJS too : ]
+
+	Making the most of this design education is the most usefull thing that you can do for now.
+
+		- Designing a web experience allows your work to scale dramatically fast, reaching distance employers...
+
+	Gotta do some cool stuff with the UI + UX man, don't get caught up on the programming - there will always be people way the fuck faster than you at that.
+
+==
+
 	Current sources, inspiration
 
 		The Grid
 			Artificially Intelligent website design
 			http://thegrid.io
+
+==
+
+Alex
