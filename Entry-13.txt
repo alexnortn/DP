@@ -16,8 +16,50 @@ Organic Interaction Design (OID)
 
 		- You create an emergent system.
 
-	The speed of computing --> [ (NoT) || (OiD) ] + (IoT) == (FoT)
+	The speed of computing --> [ (NoT) || (OiD) ] + (IoT) ==  (FoT)
 
 ==
 
 	But watch out for buzzwords, know what's out there, but more importantly, ask yourself what isn't out there *yet.
+
+==
+
+	What about organizing culture?
+
+		- New York Times API.
+		- A new way to ogranize large amounts of content
+		- Taking into consideration that amount of content and the density of the data. 
+		- Bringing legibility and context.
+
+	A Data Viz organized by the principles of reductionism + Wa (Japanese design asthetics)
+
+	Reducing large complexities to qualitative inferences
+
+		- You have all this 'big data' how do you make sense of it?
+
+	Data structures + queries that grow and evolve to 'fit' your unique needs.
+
+		- How can you graphic design this?
+		- Pull back from comp.sci
+
+	Organizing thought space.
+
+		- Here are my interests
+		- Let's set up a query system
+		- Ok, get to work and start building me [n] unique clusters.
+		- This is sort of meta; you're designing a system to help you to understand your thoughts.
+
+	Abstractly using physics + attactors to create a more abstract force-directed plot.
+
+	Start with a really flat page, start neutral --> let the page grow with interaction. Can the page learn + adapt to it's usage?
+
+==
+
+	Brian suggests that people who are spread futher apart realize, better, the value of each other. When in cities, people are somehow less concerned with each other.
+
+==
+	Feeling super disconnected from this place that I've been stuck in.
+
+==
+
+	Alex
