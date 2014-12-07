@@ -47,6 +47,10 @@ Organic Interaction Design (OID)
 
 ==
 
+	Estimation is critical --> You need to 
+
+==
+
 	It may be important to make a distinction between the kind of interactions that we'll be exploring. Perhaps it would be prudent to spend my spring semester (at Massart) focusing on OID with respect to GUI design. I am pursuing a degree in Graphic Design, the professors + student body will be more capable in offering relevant feedback if my work explores possibilites offered in these realms.
 
 	Perhaps I could continue my work with Arduino's + Physical Computing somewhere at MIT? Continue your exploration of this stuff sort of part time as a possible beginning for your future career. It's sort of a waste of your $$$ + Time to be pursuing something like this at Massart where there is little relevant feedback or help available.

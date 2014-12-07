@@ -1,0 +1,66 @@
+Organic Interaction Design (OID)
+
+	Pervasive Computing
+	Connected Systems
+	Distributed Sensor Networks
+
+	Making Sense of Things
+	Sensing the World around Us
+
+	IoT + NoT == FoT
+
+==
+
+	Identifying where connectivity legitimately adds value and is not merely intrusive!
+
+		- Improve Quality of Life
+		- Save Money
+		- Conserve Natural Resources
+		- Drive Better Efficiencies
+		- Increase our Awareness
+			+ Augment our Sensibilities
+			+ My Contribution*
+
+	Specific Oppertunities for IoT
+
+		- Home Automation
+		- Anticipatory // Predictive
+		- Entertainment
+		- Manufacturing
+		- Resources
+
+	Fog computing?
+
+==
+
+	!Walled Garden --> Open Source
+
+		A closed platform, walled garden or closed ecosystem is a software system where the carrier or service provider has control over applications, content, and media, and restricts convenient access to non-approved applications or content. This is in contrast to an open platform, where consumers have unrestricted access to applications, content, and much more.
+
+==
+
+	How many senses do humans have?
+	Sense
+
+		A sense is a physiological capacity of organisms that provides data for perception. The senses and their operation, classification, and theory are overlapping topics studied by a variety of fields, most notably neuroscience, cognitive psychology (or cognitive science), and philosophy of perception. The nervous system has a specific sensory system or organ, dedicated to each sense.
+
+		Recall Kenya Hara's essay from "Designing Design" where he explains 'Haptic' sensing, and augmenting the human sensory experience more than the base five senses:
+
+			- Sight
+			- Touch
+			- Taste
+			- Sound
+			- Smell
+
+			+ Stuff from Enchanted Objects
+
+		The Neuroscience of Sensing + Perception
+
+			Or why physical, tactile, + material still matter.
+
+			Design information gathering + expressing systems that function similarly to a neural network; this includes both the physiology, anatomy, and taxonomy of the idividual cells.
+
+			: ]
+
+
+Alex
