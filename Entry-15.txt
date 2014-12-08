@@ -2,6 +2,8 @@ Organic Interaction Design (OID)
 
 	Getting back to people
 
+	Sony --> Paper Watch
+
 ==
 
 	Curiousity of a Child
@@ -13,7 +15,7 @@ Organic Interaction Design (OID)
 
 		Love Process!
 
-		Why does adchieving a level of mastery matter so much?
+		Why does achieving a level of mastery matter so much?
 
 		Instant gratification --> Fuck Guitar Hero
 
@@ -51,6 +53,36 @@ Organic Interaction Design (OID)
 		- Little Bits for Data Viz
 
 	Get people to improvise in a safe environment but enable them to produce truly* orginal content.
+
+==
+
+	Back to Monument Valley --
+
+	Why does this game interst you so much? Yes it's a game, but also it's about exploration + discovery.. how can one reward well-considered curiousity? But this all would have to be really abstract.. and naturally, relatively generative on the level of a compound system + dynamic relationships who's sum is greater than it's parts.
+
+	Learning a lot from a little.
+
+	Emergent Systems: (exponential incrementation)
+
+		- IFTTT
+		- Neurons
+		- Meta --> Brain Function // Architecture
+
+	What are we designing?
+
+		- Game
+		- Experience
+		- Tool
+		- Visualization
+		- Dashboard
+		- Simulation
+		- Narrative
+		- Metaphor
+		- Representational vs NonRepresentational
+		- Technology
+		- Scalable
+
+	But does it float?
 
 ==
 
