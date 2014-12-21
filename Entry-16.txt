@@ -1,0 +1,62 @@
+Organic Interaction Design (OID)
+
+	Getting back to people
+
+	Sony --> Paper Watch
+
+==
+
+
+In a world of technology + automation increasingly influenced by "big" data and "smart" algorithms, I propose a unique adpation of traditional design process.
+
+(organic interaction design)
+
+Towards genuine empathy, a way of mediating our interactions between bits + atoms. Organic information design uses technology to help us remove ourselves from technology.
+
+Continuing the work that I have begun with projects like "Knuff" and the "Gestural Lamp" the project will focuse on transforming complex pieces of quanititative data into simple, yet sophistocated qualitative moments + interactions; reducing endless spreadsheets to simple clusters or emotional responses.
+
+Simplicity is the not the same as simplistic.
+
+The scope of the project may span multiple design disciplines, scales, and mediums. More research will have to be conducted before the final form is reached.
+
+==
+
+References
+
+	Kenya Hara
+	"Designing Design"
+
+	Ben Fry
+	"Organic Information Design"
+
+	Mike Bostock
+	"Visualizing Algorithms"
+
+	Dieter Rams
+	"As Little Design as Possible"
+
+	Sherry Tuckle
+	"Alone Together"
+
+
+==
+
+Thoughts
+
+	Meeting with Fred Wolfink, Dana Moser & Brian + Jan will be super helpful!
+
+	Fred + Dana suggest looking into the Rasberry Pi, its cool because it's a simple linux computer that actually works! It has video out and everything! How interesting! 
+
+	Fred mentioned to me that since the Pi is a fully operational linux machine, it isn't such a good idea to go interfacing directly with physical sensors with it, this is because touching the sensors actually interupts the rest of the OS processing, instead you outsource these calculations to a discrete microcontroller- this is a single processor who's sole purpose is to expend cpu cycles on the sensors. You then communicate back to the linux board over serial communication.
+
+	Cool.
+
+	Fred also mentioned a really cool book which theoretically suggests ways in which robots can become aware, and also exhibit signs of humanity.
+
+	++
+
+	I also was just reading an article on Flowing Data which explores the idea of physical representations of data -- one of my original ideas.. Let's see where this brings us.
+
+==
+
+	Alex
