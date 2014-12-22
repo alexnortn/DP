@@ -59,4 +59,13 @@ Thoughts
 
 ==
 
+	You may not be the moswt skilled eveloper byt at thae same time its important that one can utilize our abilities as designes tocreated an experience that the engineers would toerwise be unable to do. We hav this unique connection wiht people and Alex that's something that you sort of ahave to foster. This is sa that ing that seperates you from the all the strange tech people at MIT. I would encourage you to take all the really powerufl knowledge you hae collected and find a way to connect it with people. Architects feel that they are so empowered to do such complex things. Remeber the incredible scale of money and effot that goes into creating as ignle building. When you design web and digital based experiences, your work scales very, very quickly. There is no doubt an art in the creation of a single piece, whether that be scultpure paitning or architecture, however, you immediatly limit your exposure.
+
+	As much as you want to create and craft some really bad ass physical device- you should not forget this.
+
+	But getting back to the embedded paper idea, if people could literally pring their own ciruits-- where would that put us? Would the mass production of such an item cause problems, for me I know that I'd be less interested --> for some reason the idea of starter kits or 'all in one' devices sort of bores me, it's like someone else has already done all the work for you.
+
+	People have two main concerns -- how can your product help them  (indirectly) find their way there.
+
+	The to do list taxonomy and the make it taxonomy is cool, i guess.
 	Alex
