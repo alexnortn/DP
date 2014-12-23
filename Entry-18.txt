@@ -35,3 +35,10 @@ Perform fun tests of social data or really any kind of data within the scope of 
 It is possible to (very quickly) create an entropic system using simply a restitution value > 1
 
 	Imagine if that value would dynamically flux, or really flux to a certain degree, thereby inflicting a sort of chaotic simulation...
+
+	So the form is kind of there, and I don't see it floating around the web as much as it could, I mean how can you take semantic meaning and apply a sort of syntatic alteration, meaning the physics.. Does this effect the usefullness of the information?
+
+	Road signs are so effective --> consistancy
+
+	Where does consistancy become a bore?
+	Does it?
