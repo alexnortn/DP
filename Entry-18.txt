@@ -1,0 +1,37 @@
+Alright.
+
+So you have defined that you're really interested in creating some kind of a 'wormhole' between the physical and digital worlds. Technology like the Occulus rift does wonders for our Visual system, but what about our other senses?
+
+Web development is a really powerful way to inexpensively scale an idea.
+
+How can you use the technologies at hand, Arduino- JS - Internet to create a more connected experience?
+
+Live photography vs basic vector illustation to connect people beyond abstraction.
+
+Don't foget that you really really live in a bubble, and often people feel the need to move outwards from this, to seek realisic metaphors.
+
+==
+
+What is SCSS?
+
+	Although you shouldn't build you idea around technology --> it is possible for you to utilize existing technology to realize your design!
+
+	Data
+	Front End Web Development
+	Design
+	UX // UI
+	Sociology
+	Evolution
+
+==
+
+Physics simulations are a really powerul way to deal with data, if the structures exhibit similar characteristics to our physical world, then we may find it easier to understand the relationships?
+
+Perform fun tests of social data or really any kind of data within the scope of a physical environment. How can interaction design + data visualization infused with a physics engine become a more powerful tool?
+
+	Verlet Constraints?
+	Cools
+
+It is possible to (very quickly) create an entropic system using simply a restitution value > 1
+
+	Imagine if that value would dynamically flux, or really flux to a certain degree, thereby inflicting a sort of chaotic simulation...
