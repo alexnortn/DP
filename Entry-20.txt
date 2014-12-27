@@ -1,0 +1,27 @@
+Asynchronous Loading
+
+==
+
+Alright, a common problem that I see in the internet age, is this issue of waiting for information to load.
+
+There is sort of a vicious cycle of:
+	
+	Faster CPUs + Network & Communication
+	--> Quicker load times for data retrival
+	--> Larger, Higher-Resolution file formats
+	--> Back to previous page load times
+
+So you see, there will always* be some sort of a delay involved with retrieving this information.
+
+People are lazy and enjoy being constantly entertained --> Give me something to look at, and if it moves with enough complexity... I might find myself a happier person for having expierienced it.
+
+==
+
+I'm proposing a study in creating either simple looping* .gif animations or (preferably) svg || js + css based animations with some measure of intricacy.
+
+It could be a really powerful way to improve the users experience.. Instead of feeling like you're 'waiting' for something to load, you are engaged in the process of attempting to understand what is going on.. Ha how fun!
+
+==
+
+Alex
+2014

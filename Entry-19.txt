@@ -1,0 +1,9 @@
+Christmas for dad
+
+==
+
+Dad loves his electric jacket --> could you create a simple IC that would regulate the usage of electricity in his jacket? Thereby conserving more power and enhancing his well-being?
+
+It would pull from some external temp sensor to create a map of the weather data.. then it would inrementally ramp up the internal voltage to achieve some sort of equilibrium.
+
+You are the master of over thinking shit.
