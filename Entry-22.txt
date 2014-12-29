@@ -33,4 +33,36 @@ Getting better at UI Design + Data Viz will be really powerful!
 			+We're not quite* ready to do this with images yet, (give it 5 years)
 		-Flesch Classifier, NLP 
 
-	Again, this is cool tech, really brilliant but sort of lacking in hummanity
+	Again, this is cool tech, really brilliant but sort of lacking in hummanity.
+
+==
+
+Always this idea of:
+
+	Generative Design
+	Evolutionary+Genetic Algorithms
+	ML
+	NLP+SA
+	Procedural Architectures
+
+What about some kind of self configuring experience?
+
+	I can imagine a sort of experience to reduce stress, or just sort of keep you busy. The tricky part is for every customizable 'trait' or possible 'adaption' the system must also become more complex.
+
+	You want this system to be fairly simple...
+	I would guess?
+
+	You want to avoid this idea of creating templates though
+	Personalization --> Yes.
+
+==
+
+Optomizing towards a goal // being able to alter the goal!
+
+	Then it needs to be fun + playful.
+
+	So you've got a pretty decent handle on the technology required, or at least a handle on where to learn it.
+
+	Now.
+
+	Apply it.
