@@ -1,0 +1,36 @@
+Degree Project
+
+==
+
+Transforming
+
+	Quantitative Information --> Qualitative Experience + Empathy
+
+==
+
+Doing some kind of visualization or analysis of content within the NYT API could be super cool!
+
+	What are we interested in?
+		
+		Classifying
+		Clustering
+
+How do we move into this stuff?
+
+	I mean, there's already a website in place...
+	Am I suggesting that I can do it better?
+
+Getting better at UI Design + Data Viz will be really powerful!
+	
+	Looking for metaphor
+	Building a digital experience for something that you (and others) care about
+	|
+	^
+	Sentiment analysis --> Procedurally coloring // laying out a page?
+		-Text
+		-What kind of an article is this?
+		-Oh, in that case, add these styles + effects
+			+We're not quite* ready to do this with images yet, (give it 5 years)
+		-Flesch Classifier, NLP 
+
+	Again, this is cool tech, really brilliant but sort of lacking in hummanity
