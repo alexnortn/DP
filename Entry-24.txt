@@ -1,0 +1,43 @@
+LSA --> latent semantic text analysis
+NLP --> natural language processing
+STA --> semantic text analysis
+
+==
+
+So the really intersting thing about NLP is that it first off is a way for you to analyze large amounts of data more or less autonomously.
+
+I find it intersting that one could look at a large sample set, for instance the general scope of news headlines, top selling books, billboard top 100 music tracks for say the last 10 or so years. Perhaps even dialogue scripts for some of the most successful movies in Hollywood...
+
+The point is we have all these elements of culture and then we have this computational analysis which can spin through text like crazy..
+
+It is then possible to develope a framework that would:
+
+	A: Allow for a general snapshot as to the directory of contemporary culture.
+
+		A.1: This could naturally be extended backwards into the 20th century to look for a much larger cultural trajectory.
+
+	B: How has the profusion of the internet effected the way that we engage with popular culture?
+
+	C: Has the rise of smart phones effected the way that we engage with society; including news as well.
+
+	D: Is it possible to extrapolate this trajectory into the future?
+
+	==
+
+	E: There's like three parts two this assignment, (on the digitial frontier):
+
+		E.1: Develop (rather implement) a robust NLP engine
+
+		E.2: Craft a visually engaging U.I.
+
+		E.3: Design a comprehensible digital experience.
+
+	F: The bonus is of course some kind of physical manifestation of this interface that might act as a sort of intervention for incoming data (culture :P)
+
+==
+
+Using strategies from Linear Algebra + some bad ass matrix analysis it's possible to distill at least some form of sementic meaning from simple regular expressions.
+
+==
+
+Alex
