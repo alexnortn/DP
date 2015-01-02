@@ -16,6 +16,10 @@ It is then possible to develope a framework that would:
 
 		A.1: This could naturally be extended backwards into the 20th century to look for a much larger cultural trajectory.
 
+		A.2: It's possible to use this technique, accompanied by some lookup table (already developed) to assign a specific rating to these words and classfyinh them into different clusters based on some metric; whether that be how positive or negative the text is.
+
+			A.2.1: One could imagine an interface that would allow users to apply multiple filters and even custom filters to generate their own clusters.
+
 	B: How has the profusion of the internet effected the way that we engage with popular culture?
 
 	C: Has the rise of smart phones effected the way that we engage with society; including news as well.
