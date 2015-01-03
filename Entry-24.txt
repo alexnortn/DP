@@ -44,4 +44,25 @@ Using strategies from Linear Algebra + some bad ass matrix analysis it's possibl
 
 ==
 
+The math looks pretty daunting...
+
+But.
+	I have this thought that people arn't abstrating the text visualization process enough... what about using a physics engine to create some form of empathetic response to text?
+
+	Hmm...
+
+	Is it possible to engage the user with the potentially dry topic here with some of the ideas brought about in that book that Fred showed you on robotics?
+
+	Hell yeah.
+
+	Simple systems; an ecosystem of ideas haha
+
+	Unfortuntatly... a simulation
+
+	BUT
+
+	Responsive Physics is fucking cool and really fun + intuitiive to play with! 
+
+	The translation will be so cool!
+
 Alex
