@@ -1,3 +1,6 @@
+
+
+// require means load into use, so our app has access 
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
@@ -9,12 +12,14 @@ var bodyParser = require('body-parser');
 var mongo = require('mongoskin');
 var db = mongo.db("mongodb://localhost:27017/nodetest5", {native_parser:true});
 
+// Router executable 'js' files to access requests from the './' tells the router to run them
 var routes = require('./routes/index');
 var users = require('./routes/users');
 
+// Initialize our App
 var app = express();
 
-// view engine setup
+// view engine setup --> Jade template engine
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
@@ -26,13 +31,15 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Make our db accessible to our router
+// Make our db accessible to our router --> Use this as our Database!
 app.use(function(req,res,next){
     req.db = db;
     next();
 });
 
+// Index.js
 app.use('/', routes);
+// Users.js
 app.use('/users', users);
 
 // catch 404 and forward to error handler

@@ -11,7 +11,7 @@ router.get('/userlist', function(req, res) {
     });
 });
 
-/*
+/*N
  * POST to adduser.
  */
 router.post('/adduser', function(req, res) {
