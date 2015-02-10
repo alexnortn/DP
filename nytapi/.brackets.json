@@ -1,0 +1,7 @@
+{
+    "sbruchmann.staticpreview.basepath": "/Users/ray/Dropbox/websites/testingzone/nytapi/",
+    "jscodehints.detectedExclusions": [
+        "/Users/ray/Dropbox/websites/testingzone/nytapi/lib/js/themes/skies.js",
+        "/Users/ray/Dropbox/websites/testingzone/nytapi/lib/js/themes/sand-signika.js"
+    ]
+}
