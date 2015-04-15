@@ -1,3 +1,6 @@
+
+// Globals
+
 var $search;
 var $progress;
 
@@ -6,6 +9,9 @@ var START_YEAR = 1900;
 var END_YEAR = 2015;
 //used to get progress (not done yet)
 var totalDone = 0;
+
+
+// DOM interaction + feedback
 
 $(document).ready(function() {
 	
@@ -41,6 +47,9 @@ When done, I see if I need to do more, and if so, I call it in
 Y miliseconds. The idea being I do chunks of aysnc requests with
 a 'pad' between them to slow down the requests.
 */
+
+// AJAX interactions
+
 var globalData;
 var searchTerm;
 var currentYear;
@@ -91,6 +100,8 @@ function processSets() {
 
 }
 
+// Self explanetory search function
+
 function search() {
 	var term = $search.val();
 	if(term === '') return;
@@ -106,6 +117,9 @@ function search() {
 	processSets();
 }
 	
+
+// Render the graph --> To be replaced with D3
+
 function render(searchData) {
 	console.dir(searchData);
 
