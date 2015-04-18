@@ -1,0 +1,163 @@
+#N canvas 206 114 695 461 10;
+#N canvas 1148 176 406 381 simple-page1 0;
+#X obj 105 148 vsl 30 128 0 127 0 0 empty empty empty 0 -9 0 10 -257985
+-1 -1 3538 1;
+#X obj 143 148 vsl 30 128 0 127 0 0 empty empty empty 0 -9 0 10 -257985
+-1 -1 0 1;
+#X obj 181 148 vsl 30 128 0 127 0 0 empty empty empty 0 -9 0 10 -257985
+-1 -1 0 1;
+#X obj 218 148 vsl 30 128 0 127 0 0 empty empty empty 0 -9 0 10 -257985
+-1 -1 0 1;
+#X obj 106 290 tgl 30 0 empty empty empty 17 7 0 10 -4032 -1 -1 0 1
+;
+#X obj 144 290 tgl 30 0 empty empty empty 17 7 0 10 -4032 -1 -1 0 1
+;
+#X obj 180 290 tgl 30 0 empty empty empty 17 7 0 10 -4032 -1 -1 0 1
+;
+#X obj 217 290 tgl 30 0 empty empty empty 17 7 0 10 -4032 -1 -1 0 1
+;
+#X obj 37 30 OSCroute /fader1 /fader2 /fader3 /fader4 /fader5 /toggle1
+/toggle2 /toggle3 /toggle4;
+#X obj 107 106 hsl 140 30 0 127 0 0 empty empty empty -2 -8 0 10 -4032
+-1 -1 7026 1;
+#X obj 36 6 r page-1;
+#X obj 38 73 * 127;
+#X obj 78 73 * 127;
+#X obj 118 73 * 127;
+#X obj 159 73 * 127;
+#X obj 202 73 * 127;
+#X obj 57 320 s T1;
+#X obj 37 279 s F1;
+#X connect 0 0 17 0;
+#X connect 4 0 16 0;
+#X connect 8 0 11 0;
+#X connect 8 1 12 0;
+#X connect 8 2 13 0;
+#X connect 8 3 14 0;
+#X connect 8 4 15 0;
+#X connect 8 5 4 0;
+#X connect 8 6 5 0;
+#X connect 8 7 6 0;
+#X connect 8 8 7 0;
+#X connect 10 0 8 0;
+#X connect 11 0 0 0;
+#X connect 12 0 1 0;
+#X connect 13 0 2 0;
+#X connect 14 0 3 0;
+#X connect 15 0 9 0;
+#X coords 0 -1 1 1 155 230 2 100 100;
+#X restore 27 164 pd simple-page1;
+#N canvas 143 22 429 457 simple-page-2 0;
+#X obj 33 54 OSCroute /push1 /push2 /push3 /push4 /push5 /push6 /push7
+/push8 /push9 /push10 /push11 /push12 /push13 /push14 /push15 /push16
+/toggle1 /toggle2 /toggle3 /toggle4;
+#X obj 33 224 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 73 224 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 113 224 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 153 224 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 153 264 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 113 264 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 73 264 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 33 264 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 33 304 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 73 304 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 113 304 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 153 304 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 153 344 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 113 344 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 73 344 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 33 344 tgl 30 0 empty empty empty 17 7 0 10 -257985 -1 -1 0
+1;
+#X obj 32 384 tgl 30 0 empty empty empty 17 7 0 10 -4032 -1 -1 0 1
+;
+#X obj 73 384 tgl 30 0 empty empty empty 17 7 0 10 -4032 -1 -1 0 1
+;
+#X obj 113 384 tgl 30 0 empty empty empty 17 7 0 10 -4032 -1 -1 0 1
+;
+#X obj 153 384 tgl 30 0 empty empty empty 17 7 0 10 -4032 -1 -1 0 1
+;
+#X obj 33 24 r page-2;
+#X connect 0 0 1 0;
+#X connect 0 1 2 0;
+#X connect 0 2 3 0;
+#X connect 0 3 4 0;
+#X connect 0 4 8 0;
+#X connect 0 5 7 0;
+#X connect 0 6 6 0;
+#X connect 0 7 5 0;
+#X connect 0 8 9 0;
+#X connect 0 9 10 0;
+#X connect 0 10 11 0;
+#X connect 0 11 12 0;
+#X connect 0 12 16 0;
+#X connect 0 13 15 0;
+#X connect 0 14 14 0;
+#X connect 0 15 13 0;
+#X connect 0 16 17 0;
+#X connect 0 17 18 0;
+#X connect 0 18 19 0;
+#X connect 0 19 20 0;
+#X connect 21 0 0 0;
+#X coords 0 -1 1 1 166 208 2 25 215;
+#X restore 202 164 pd simple-page-2;
+#X text 175 17 TouchOSC;
+#X text 176 32 http://hexler.net/touchosc;
+#X obj 23 83 s page-1;
+#X text 176 47 Simple-receive.pd v1.0.1;
+#X obj 23 50 OSCroute /1;
+#X obj 23 17 dumpOSC 7400;
+#X obj 392 58 tgl 25 0 empty empty empty 17 7 0 10 -204800 -1 -1 0
+1;
+#X msg 392 90 \; pd dsp \$1;
+#X msg 500 44 60;
+#X obj 500 70 mtof;
+#X obj 500 111 sig~;
+#X obj 500 143 osc~ 440;
+#X obj 500 180 *~;
+#X obj 570 225 - 100;
+#X obj 570 197 env~;
+#X obj 571 259 vu 15 120 empty empty -1 -8 0 10 -66577 -1 1 0;
+#X obj 477 232 dac~ 1 2;
+#X obj 603 116 vsl 15 60 0 0.7 0 0 empty empty empty 0 -9 0 10 -204786
+-1 -1 3200 1;
+#X obj 500 20 loadbang;
+#X floatatom 542 71 5 0 0 0 - - -;
+#X obj 392 32 r T1;
+#X obj 603 43 r F1;
+#X obj 603 65 / 100;
+#X floatatom 603 87 5 0 0 0 - - -;
+#X connect 6 0 4 0;
+#X connect 7 0 6 0;
+#X connect 8 0 9 0;
+#X connect 10 0 11 0;
+#X connect 11 0 12 0;
+#X connect 12 0 13 0;
+#X connect 13 0 14 0;
+#X connect 14 0 16 0;
+#X connect 14 0 18 0;
+#X connect 14 0 18 1;
+#X connect 15 0 17 0;
+#X connect 16 0 15 0;
+#X connect 19 0 14 1;
+#X connect 20 0 10 0;
+#X connect 21 0 12 0;
+#X connect 22 0 8 0;
+#X connect 23 0 24 0;
+#X connect 24 0 25 0;
+#X connect 25 0 19 0;
+#X coords 0 0 1 1 85 60 0;

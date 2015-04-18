@@ -1,73 +1,23 @@
 Initialize engine version: 4.5.4f1 (e036f44c54c9)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1106]
-    Renderer: NVIDIA GeForce GTX 670
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1269]
+    Renderer: NVIDIA Quadro FX 880M
     Vendor:   NVIDIA
-    VRAM:     1994 MB (via DXGI)
+    VRAM:     978 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.079 seconds
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1920x1080 75Hz; virtual: 5120x1200 at -1280,0
-Platform assembly: C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\GitHub\DP\swarming-unity\Swarm25_Data\Managed\System.dll (this message is harmless)
-Pressed left click.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GrabberController.GetCursorObject () [0x00000] in <filename unknown>:0 
-  at GrabberController.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Pressed left click.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GrabberController.GetCursorObject () [0x00000] in <filename unknown>:0 
-  at GrabberController.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Pressed left click.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GrabberController.GetCursorObject () [0x00000] in <filename unknown>:0 
-  at GrabberController.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Pressed left click.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GrabberController.GetCursorObject () [0x00000] in <filename unknown>:0 
-  at GrabberController.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Pressed left click.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GrabberController.GetCursorObject () [0x00000] in <filename unknown>:0 
-  at GrabberController.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+Platform assembly: C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Norton02User\Documents\GitHub\DP\swarming\Swarm25_Data\Managed\System.dll (this message is harmless)
