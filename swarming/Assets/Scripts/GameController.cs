@@ -19,7 +19,7 @@ public class GameController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		thoughtList = new List<GameObject>();
-		Physics.gravity = new Vector3(0, -0.75F, 0);
+		Physics.gravity = new Vector3(0, -0.5f, 0);
 		StartCoroutine (SpawnWaves ());	
 
 		//Loading the audio items into the array
@@ -49,7 +49,7 @@ public class GameController : MonoBehaviour {
 	{
 		GameObject thought;
 		yield return new WaitForSeconds (startWait);
-		while (true)
+		if (true)
 		{
 			for (int i = 0; i < thoughtCount; i++)
 			{

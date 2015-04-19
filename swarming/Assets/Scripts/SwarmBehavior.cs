@@ -52,23 +52,23 @@ public class SwarmBehavior : MonoBehaviour {
 		swarmFlock();
 
 		// Interaction
-		if (Input.GetMouseButtonDown(0)) 
-		{
-			flockSize = !flockSize;
-            Debug.Log("Pressed left click.");
-            if (flockSize) 
-            {
-            	swarmBounds.x = 25;
-            	swarmBounds.y = 25;
-            	swarmBounds.z = 25;
-			} 
-			else
-			{
-				swarmBounds.x = 300;
-				swarmBounds.y = 300;
-				swarmBounds.z = 300;
-			}
-		}	
+		// if (Input.GetMouseButtonDown(0)) 
+		// {
+		// 	flockSize = !flockSize;
+  //           Debug.Log("Pressed left click.");
+  //           if (flockSize) 
+  //           {
+  //           	swarmBounds.x = 25;
+  //           	swarmBounds.y = 25;
+  //           	swarmBounds.z = 25;
+		// 	} 
+		// 	else
+		// 	{
+		// 		swarmBounds.x = 300;
+		// 		swarmBounds.y = 300;
+		// 		swarmBounds.z = 300;
+		// 	}
+		// }	
 	}
 
 	protected virtual void OnDrawGizmosSelected()
