@@ -7,19 +7,19 @@ public class DroneBehavior : MonoBehaviour {
 	// the overall speed of the simulation
 	public float speed = 0f;
 	// max speed any particular drone can move at
-	public float maxSpeed = 50f;
+	private float maxSpeed = 125f;
 	// maximum steering power
 	public float maxSteer = .001f;
 
 	// weights: used to modify the drone's movement
-	public float separationWeight = 1f;
-	public float alignmentWeight = 1.00f;
-	public float cohesionWeight = 1.0f;
-	public float boundsWeight = 0.5f;
-	public float homeWeight = 1.5f;
+	private float separationWeight = 1f;
+	private float alignmentWeight = 1.00f;
+	private float cohesionWeight = 1.0f;
+	private float boundsWeight = 0.5f;
+	private float homeWeight = 1.5f;
 
-	public float neighborRadius = 50f;
-	public float desiredSeparation = 15f;
+	private float neighborRadius = 50f;
+	public float desiredSeparation = 25f;
 
 	// velocity influences
 	public Vector3 _separation;
@@ -122,10 +122,12 @@ public class DroneBehavior : MonoBehaviour {
 		{
 			if (drones[i] == null) continue;
 
-			// Scale the drones?
-			// transform.localScale = new Vector3(cohesionOsc/100,cohesionOsc/100,cohesionOsc/100);
-
 			float distance = Vector3.Distance(transform.position, drones[i].transform.position);
+
+			// Set the desired separation for each drone with respect to the size
+			float droneScale = transform.localScale.x;
+			maxSpeed /=  (droneScale * 10);
+			desiredSeparation *= (droneScale/2);
 
 			// separation
 			// calculate separation influence velocity for this drone, based on its preference to keep distance between itself and neighboring drones
@@ -190,6 +192,10 @@ public class DroneBehavior : MonoBehaviour {
 					boundsCount++;
 				}
 			}
+
+			// Reset your variables for the next cycle;
+			maxSpeed = 125f;
+			desiredSeparation = 25f;
 		}
 
 		// end
