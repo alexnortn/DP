@@ -12,12 +12,13 @@ public class GameController : MonoBehaviour {
 	public int thoughtCount;
 	public float spawnWait;
 	public float startWait;
-	public float waveWait;
+	private float waveWait;
 
 	private int spawnScale;
 
 	// Use this for initialization
 	void Start () {
+		waveWait = 6f;
 		thoughtList = new List<GameObject>();
 		Physics.gravity = new Vector3(0, -0.5f, 0);
 		StartCoroutine (SpawnWaves ());	
@@ -49,7 +50,7 @@ public class GameController : MonoBehaviour {
 	{
 		GameObject thought;
 		yield return new WaitForSeconds (startWait);
-		if (true)
+		while (true)
 		{
 			for (int i = 0; i < thoughtCount; i++)
 			{
@@ -74,7 +75,7 @@ public class GameController : MonoBehaviour {
 				yield return new WaitForSeconds (spawnWait);
 			}
 			yield return new WaitForSeconds (waveWait);
-
+			waveWait = Random.Range(4f, 20f);
 		}
 	}
 }
