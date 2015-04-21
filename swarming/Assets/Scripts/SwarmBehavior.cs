@@ -30,15 +30,14 @@ public class SwarmBehavior : MonoBehaviour {
 		drones = new List<GameObject>();
 		make = true;
 		swarmTimer = 10;
+		flockSize = false;
+		countdown = 2f;
 
 		if (prefab == null)
 		{
 			// end early
 			Debug.Log("Please assign a drone prefab.");
 			return;
-
-			flockSize = false;
-			countdown = 2f;
 		}
 	}
 	

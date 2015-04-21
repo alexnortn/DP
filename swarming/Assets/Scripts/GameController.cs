@@ -43,6 +43,11 @@ public class GameController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		float probPick = Mathf.RoundToInt(Random.Range(0, 10));
+		if (probPick > 8)
+		{
+			// int ty = Mathf.RoundToInt(Random.Range(0, thoughtCount));
+		}
 	
 	}
 
@@ -67,7 +72,7 @@ public class GameController : MonoBehaviour {
 				// thought.AddComponent(AudioSource);
 				thought.audio.clip = audioList[Random.Range(0,11)];
 				thought.audio.loop = true;
-				thought.audio.volume = Random.Range(0F, 0.5F);
+				thought.audio.volume = Random.Range(0.25F, 0.5F);
 				thought.audio.Play();
 
 				thoughtList.Add(thought);

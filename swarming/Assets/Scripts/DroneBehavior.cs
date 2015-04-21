@@ -7,7 +7,7 @@ public class DroneBehavior : MonoBehaviour {
 	// the overall speed of the simulation
 	public float speed = 0f;
 	// max speed any particular drone can move at
-	private float maxSpeed = 125f;
+	public float maxSpeed = 125f;
 	// maximum steering power
 	public float maxSteer = .001f;
 
@@ -51,6 +51,8 @@ public class DroneBehavior : MonoBehaviour {
     private Material trail;
 
     // Interaction
+    private bool scale;
+    private float droneScale;
 
 	void FixedUpdate()
 	{
@@ -125,7 +127,9 @@ public class DroneBehavior : MonoBehaviour {
 
 			// Set the desired separation for each drone with respect to the size
 			float droneScale = transform.localScale.x;
-			maxSpeed /=  (droneScale * 10);
+			// Now this actually works!!!
+			// maxSpeed = 125f;
+			// maxSpeed -=  (droneScale*2);
 			desiredSeparation *= (droneScale/2);
 
 			// separation
@@ -193,7 +197,6 @@ public class DroneBehavior : MonoBehaviour {
 			}
 
 			// Reset your variables for the next cycle;
-			maxSpeed = 125f;
 			desiredSeparation = 25f;
 		}
 
@@ -217,8 +220,9 @@ public class DroneBehavior : MonoBehaviour {
 		Vector3 targetDirection = target - transform.position;
 		float targetDistance = targetDirection.magnitude;
 
-		transform.LookAt(target);
 		// transform.LookAt(Vector3.zero);
+		Quaternion rotation = Quaternion.LookRotation(_alignment);
+        transform.rotation = rotation;
 
 		// Lerp Color
 		float lerp = Map(0 , 1, -150, 150, transform.position.y);
