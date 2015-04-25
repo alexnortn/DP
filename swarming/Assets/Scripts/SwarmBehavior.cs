@@ -9,7 +9,7 @@ public class SwarmBehavior : MonoBehaviour {
 	/// <summary>
 	/// the number of drones we want in this swarm
 	/// </summary>
-	public static int droneCount = 150;
+	public static int droneCount = 75;
 	public float spawnRadius = 100f;
 	public List<GameObject> drones;
 
@@ -132,7 +132,7 @@ public class SwarmBehavior : MonoBehaviour {
             	swarmBounds.x = 25;
             	swarmBounds.y = 25;
             	swarmBounds.z = 25;
-            	swarmTimer = Random.Range(1.0f , 5.0f);
+            	swarmTimer = Random.Range(5.0f , 10.0f);
             	Debug.Log("Swarming for " + swarmTimer);
 			} 
 			else
