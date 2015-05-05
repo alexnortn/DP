@@ -9,11 +9,11 @@ public class SwarmBehavior : MonoBehaviour {
 	/// <summary>
 	/// the number of drones we want in this swarm
 	/// </summary>
-	public static int droneCount = 75;
+	public int droneCount = 150;
 	public float spawnRadius = 100f;
 	public List<GameObject> drones;
 
-	public Vector3 swarmBounds = new Vector3(300f, 300f, 300f);
+	public Vector3 swarmBounds = new Vector3(750f, 750f, 750f);
 
 	public GameObject prefab;
 
@@ -29,9 +29,9 @@ public class SwarmBehavior : MonoBehaviour {
 
 		drones = new List<GameObject>();
 		make = true;
-		swarmTimer = 10;
+		swarmTimer = 10.0f;
 		flockSize = false;
-		countdown = 2f;
+		countdown = 5.0f;
 
 		if (prefab == null)
 		{
@@ -110,7 +110,7 @@ public class SwarmBehavior : MonoBehaviour {
 				drones.Add(droneTemp);
 
 				count++;
-				countdown = 2;
+				countdown = 5.0f;
 
 				if (count >= droneCount) make = false;
 			}
@@ -129,18 +129,18 @@ public class SwarmBehavior : MonoBehaviour {
             Debug.Log("Swarming...");
             if (flockSize) 
             {
-            	swarmBounds.x = 25;
-            	swarmBounds.y = 25;
-            	swarmBounds.z = 25;
+            	swarmBounds.x = 25.0f;
+            	swarmBounds.y = 25.0f;
+            	swarmBounds.z = 25.0f;
             	swarmTimer = Random.Range(5.0f , 10.0f);
             	Debug.Log("Swarming for " + swarmTimer);
 			} 
 			else
 			{
-				swarmBounds.x = 300;
-				swarmBounds.y = 300;
-				swarmBounds.z = 300;
-				swarmTimer = Random.Range(10.0f , 50.0f);
+				swarmBounds.x = 750f;
+				swarmBounds.y = 750f;
+				swarmBounds.z = 750f;
+				swarmTimer = Random.Range(30.0f , 60.0f);
 				Debug.Log("Swarming for " + swarmTimer);
 			}
 		}

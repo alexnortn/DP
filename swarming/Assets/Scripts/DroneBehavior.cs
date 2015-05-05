@@ -12,14 +12,14 @@ public class DroneBehavior : MonoBehaviour {
 	public float maxSteer = .001f;
 
 	// weights: used to modify the drone's movement
-	private float separationWeight = 1f;
+	private float separationWeight = 1.0f;
 	private float alignmentWeight = 1.00f;
-	private float cohesionWeight = 1.0f;
-	private float boundsWeight = 0.5f;
-	private float homeWeight = 1.5f;
+	private float cohesionWeight = 1.00f;
+	private float boundsWeight = 0.75f;
+	private float homeWeight =   0.75f;
 
-	private float neighborRadius = 50f;
-	public float desiredSeparation = 25f;
+	private float neighborRadius = 100f;
+	public float desiredSeparation = 50f;
 
 	// velocity influences
 	public Vector3 _separation;
@@ -36,7 +36,8 @@ public class DroneBehavior : MonoBehaviour {
 	// Perlin Noise Implementation
 	public float separationScale = 50.0f;
 	public float cohesionScale = 5.0f;
-	public float cohesionOsc = 150;
+	// This is literally the distance from home that matters; it is swarmbounds
+	private float cohesionOsc = 500;
 	public float xScale = 1.0f;
 
 	// other members of my swarm
@@ -66,6 +67,7 @@ public class DroneBehavior : MonoBehaviour {
 		
 		// Get the material list of the trail as per the scripting API.
 		trail = GetComponent<TrailRenderer>().material;
+		cohesionOsc = (swarm.swarmBounds.x)/2;
 	}
 
 	protected virtual void Update()
@@ -130,7 +132,9 @@ public class DroneBehavior : MonoBehaviour {
 			// Now this actually works!!!
 			// maxSpeed = 125f;
 			// maxSpeed -=  (droneScale*2);
-			desiredSeparation *= (droneScale/2);
+
+			// Scale Separation by Drone Size
+			// desiredSeparation *= (droneScale/2);
 
 			// separation
 			// calculate separation influence velocity for this drone, based on its preference to keep distance between itself and neighboring drones
@@ -197,7 +201,7 @@ public class DroneBehavior : MonoBehaviour {
 			}
 
 			// Reset your variables for the next cycle;
-			desiredSeparation = 25f;
+			// desiredSeparation = 25f;
 		}
 
 		// end
@@ -221,8 +225,8 @@ public class DroneBehavior : MonoBehaviour {
 		float targetDistance = targetDirection.magnitude;
 
 		// transform.LookAt(Vector3.zero);
-		Quaternion rotation = Quaternion.LookRotation(_alignment);
-        transform.rotation = rotation;
+		// Quaternion rotation = Quaternion.LookRotation(_alignment);
+  //       transform.rotation = rotation;
 
 		// Lerp Color
 		float lerp = Map(0 , 1, -150, 150, transform.position.y);
