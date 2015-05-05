@@ -18,7 +18,7 @@ public class DroneBehavior : MonoBehaviour {
 	public float boundsWeight    ;
 	public float homeWeight      ;
 
-	private float neighborRadius = 100f;
+	private float neighborRadius = 50f;
 	public float desiredSeparation;
 
 	// velocity influences
