@@ -12,11 +12,11 @@ public class DroneBehavior : MonoBehaviour {
 	public float maxSteer = .001f;
 
 	// weights: used to modify the drone's movement
-	private float separationWeight = 1.0f;
-	private float alignmentWeight = 1.00f;
-	private float cohesionWeight = 1.00f;
-	private float boundsWeight = 0.75f;
-	private float homeWeight =   0.75f;
+	public float separationWeight = 1.0f;
+	public float alignmentWeight = 1.00f;
+	public float cohesionWeight = 1.00f;
+	public float boundsWeight = 0.75f;
+	public float homeWeight =   0.75f;
 
 	private float neighborRadius = 100f;
 	public float desiredSeparation = 50f;
@@ -77,7 +77,7 @@ public class DroneBehavior : MonoBehaviour {
 
 		if (Input.GetMouseButtonDown(0)) 
 		{
-			desiredSeparation = swarm.flockSize ? 150f : 15f;
+			// desiredSeparation = swarm.flockSize ? 150f : 15f;
 		}
 
 	}
