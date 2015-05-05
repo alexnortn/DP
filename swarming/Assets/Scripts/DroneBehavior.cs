@@ -5,21 +5,21 @@ using System.Collections.Generic;
 public class DroneBehavior : MonoBehaviour {
 
 	// the overall speed of the simulation
-	public float speed = 0f;
+	public float speed;
 	// max speed any particular drone can move at
-	public float maxSpeed = 125f;
+	public float maxSpeed;
 	// maximum steering power
-	public float maxSteer = .001f;
+	public float maxSteer;
 
 	// weights: used to modify the drone's movement
-	public float separationWeight = 1.0f;
-	public float alignmentWeight = 1.00f;
-	public float cohesionWeight = 1.00f;
-	public float boundsWeight = 0.75f;
-	public float homeWeight =   0.75f;
+	public float separationWeight;
+	public float alignmentWeight ;
+	public float cohesionWeight  ;
+	public float boundsWeight    ;
+	public float homeWeight      ;
 
 	private float neighborRadius = 100f;
-	public float desiredSeparation = 50f;
+	public float desiredSeparation;
 
 	// velocity influences
 	public Vector3 _separation;
@@ -36,8 +36,9 @@ public class DroneBehavior : MonoBehaviour {
 	// Perlin Noise Implementation
 	public float separationScale = 50.0f;
 	public float cohesionScale = 5.0f;
+
 	// This is literally the distance from home that matters; it is swarmbounds
-	private float cohesionOsc = 500;
+	private float cohesionOsc = 250f;
 	public float xScale = 1.0f;
 
 	// other members of my swarm

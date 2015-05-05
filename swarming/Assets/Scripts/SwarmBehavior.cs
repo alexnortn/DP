@@ -9,7 +9,7 @@ public class SwarmBehavior : MonoBehaviour {
 	/// <summary>
 	/// the number of drones we want in this swarm
 	/// </summary>
-	public int droneCount = 150;
+	public int droneCount = 75;
 	public float spawnRadius = 100f;
 	public List<GameObject> drones;
 

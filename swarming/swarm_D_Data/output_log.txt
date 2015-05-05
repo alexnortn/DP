@@ -15,41 +15,9 @@ Platform assembly: C:\GitHub\DP\swarming\swarm_D_Data\Managed\Assembly-CSharp.dl
 Loading C:\GitHub\DP\swarming\swarm_D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\GitHub\DP\swarming\swarm_D_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
 Loading C:\GitHub\DP\swarming\swarm_D_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.040 seconds
+- Completed reload, in  0.060 seconds
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1920x1080 75Hz; virtual: 5120x1200 at -1280,0
+desktop: 1920x1200 59Hz; virtual: 3200x1200 at -1280,0
 Platform assembly: C:\GitHub\DP\swarming\swarm_D_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\GitHub\DP\swarming\swarm_D_Data\Managed\System.dll (this message is harmless)
-Swarming...
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-SwarmBehavior:swarmFlock() (at C:\GitHub\DP\swarming\Assets\Scripts\SwarmBehavior.cs:130)
-SwarmBehavior:Update() (at C:\GitHub\DP\swarming\Assets\Scripts\SwarmBehavior.cs:52)
- 
-(Filename: C Line: 0)
-
-Swarming for 2.255738
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-SwarmBehavior:swarmFlock() (at C:\GitHub\DP\swarming\Assets\Scripts\SwarmBehavior.cs:137)
-SwarmBehavior:Update() (at C:\GitHub\DP\swarming\Assets\Scripts\SwarmBehavior.cs:52)
- 
-(Filename: C Line: 0)
-
-Swarming...
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-SwarmBehavior:swarmFlock() (at C:\GitHub\DP\swarming\Assets\Scripts\SwarmBehavior.cs:130)
-SwarmBehavior:Update() (at C:\GitHub\DP\swarming\Assets\Scripts\SwarmBehavior.cs:52)
- 
-(Filename: C Line: 0)
-
-Swarming for 19.05585
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-SwarmBehavior:swarmFlock() (at C:\GitHub\DP\swarming\Assets\Scripts\SwarmBehavior.cs:145)
-SwarmBehavior:Update() (at C:\GitHub\DP\swarming\Assets\Scripts\SwarmBehavior.cs:52)
- 
-(Filename: C Line: 0)
-
