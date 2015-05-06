@@ -39,6 +39,7 @@ public class GameController : MonoBehaviour {
         	Resources.Load("Sounds/thoughtSound11") as AudioClip
         	
         };
+
 	}
 	
 	// Update is called once per frame
@@ -48,7 +49,6 @@ public class GameController : MonoBehaviour {
 		{
 			// int ty = Mathf.RoundToInt(Random.Range(0, thoughtCount));
 		}
-	
 	}
 
 	IEnumerator SpawnWaves ()

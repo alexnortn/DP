@@ -54,7 +54,7 @@ public class DroneBehavior : MonoBehaviour {
 
     // Interaction
     private bool scale;
-    private float droneScale;
+    // private float droneScale;
 
 	void FixedUpdate()
 	{
