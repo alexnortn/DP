@@ -116,16 +116,16 @@ public class OVRCameraRig : MonoBehaviour
 			leftEyeCamera = ConfigureCamera(OVREye.Left);
 			rightEyeCamera = ConfigureCamera(OVREye.Right);
 
-#if !UNITY_ANDROID || UNITY_EDITOR
+			#if !UNITY_ANDROID || UNITY_EDITOR
 
-#if OVR_USE_PROJ_MATRIX
-			OVRManager.display.ForceSymmetricProj(false);
-#else
-			OVRManager.display.ForceSymmetricProj(true);
-#endif
+			#if OVR_USE_PROJ_MATRIX
+						OVRManager.display.ForceSymmetricProj(false);
+			#else
+						OVRManager.display.ForceSymmetricProj(true);
+			#endif
 
-			needsCameraConfigure = false;
-#endif
+						needsCameraConfigure = false;
+			#endif
 		}
 	}
 

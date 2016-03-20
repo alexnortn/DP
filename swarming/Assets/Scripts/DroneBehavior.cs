@@ -97,10 +97,10 @@ public class DroneBehavior : MonoBehaviour {
 		newVelocity += _bounds * boundsWeight;
 		newVelocity += _home * homeWeight;
 		newVelocity = newVelocity * speed;
-		newVelocity = rigidbody.velocity + newVelocity;
+		newVelocity = GetComponent<Rigidbody>().velocity + newVelocity;
 		// newVelocity.y = 0f;
 
-		rigidbody.velocity = Limit(newVelocity, maxSpeed);
+		GetComponent<Rigidbody>().velocity = Limit(newVelocity, maxSpeed);
 	}
 
 	/// <summary>
@@ -154,7 +154,7 @@ public class DroneBehavior : MonoBehaviour {
 			// calculate cohesion influence vector for this drone, based on its preference to be close to neighboring drones
 			if (distance > 0 && distance < neighborRadius)
 			{
-				alignmentSum += drones[i].rigidbody.velocity;
+				alignmentSum += drones[i].GetComponent<Rigidbody>().velocity;
 				alignmentCount++;
 
 				cohesionSum += drones[i].transform.position;
@@ -251,7 +251,7 @@ public class DroneBehavior : MonoBehaviour {
 			}
 
 			// set steering vector
-			steer = targetDirection - rigidbody.velocity;
+			steer = targetDirection - GetComponent<Rigidbody>().velocity;
 			steer = Limit(steer, maxSteer);
 		}
 

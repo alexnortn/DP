@@ -70,10 +70,10 @@ public class GameController : MonoBehaviour {
 				thought = (GameObject) GameObject.Instantiate(thoughts [Random.Range (0, thoughts.Length)], spawnPosition, spawnRotation);
 				thought.transform.localScale *= spawnScale;
 				// thought.AddComponent(AudioSource);
-				thought.audio.clip = audioList[Random.Range(0,11)];
-				thought.audio.loop = true;
-				thought.audio.volume = Random.Range(0.25F, 0.5F);
-				thought.audio.Play();
+				thought.GetComponent<AudioSource>().clip = audioList[Random.Range(0,11)];
+				thought.GetComponent<AudioSource>().loop = true;
+				thought.GetComponent<AudioSource>().volume = Random.Range(0.25F, 0.5F);
+				thought.GetComponent<AudioSource>().Play();
 
 				thoughtList.Add(thought);
 

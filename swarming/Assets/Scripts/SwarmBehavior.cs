@@ -24,6 +24,23 @@ public class SwarmBehavior : MonoBehaviour {
     private float countdown;
     private float swarmTimer;
 
+
+	//  VR update headset Transform, return offset
+	private float lookOffset () {
+		float headsetRotation,
+			  negheadsetRotation,
+			  normHeadsetRotation;
+
+		// Get headset tracking from OVR
+		headsetRotation = GameObject.Find("CenterEyeAnchor").transform.eulerAngles.x;
+
+		negheadsetRotation = 360 - headsetRotation;
+		normHeadsetRotation =  negheadsetRotation > headsetRotation ? headsetRotation : negheadsetRotation;
+		
+		return normHeadsetRotation;
+	}
+
+
 	// Use this for initialization
 	protected virtual void Start () {
 
@@ -47,27 +64,29 @@ public class SwarmBehavior : MonoBehaviour {
 		// Instantiate all the drone prefabs
 		if (make) makeDrones();
 
-		// Auto-Swarm.. hopefully
+		// Auto-Swarm
 		swarmFlock();
 
 		// Interaction
-		// if (Input.GetMouseButtonDown(0)) 
-		// {
-		// 	flockSize = !flockSize;
-  //           Debug.Log("Pressed left click.");
-  //           if (flockSize) 
-  //           {
-  //           	swarmBounds.x = 25;
-  //           	swarmBounds.y = 25;
-  //           	swarmBounds.z = 25;
-		// 	} 
-		// 	else
-		// 	{
-		// 		swarmBounds.x = 300;
-		// 		swarmBounds.y = 300;
-		// 		swarmBounds.z = 300;
-		// 	}
-		// }	
+		/*
+		if (Input.GetMouseButtonDown(0)) 
+		{
+			flockSize = !flockSize;
+            Debug.Log("Pressed left click.");
+            if (flockSize) 
+            {
+            	swarmBounds.x = 25;
+            	swarmBounds.y = 25;
+            	swarmBounds.z = 25;
+			} 
+			else
+			{
+				swarmBounds.x = 300;
+				swarmBounds.y = 300;
+				swarmBounds.z = 300;
+			}
+		}
+		*/	
 	}
 
 	protected virtual void OnDrawGizmosSelected()
