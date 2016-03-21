@@ -35,11 +35,23 @@ public class SwarmBehavior : MonoBehaviour {
 		headsetRotation = GameObject.Find("CenterEyeAnchor").transform.eulerAngles.x;
 
 		negheadsetRotation = 360 - headsetRotation;
-		normHeadsetRotation =  negheadsetRotation > headsetRotation ? headsetRotation : negheadsetRotation;
+		normHeadsetRotation =  negheadsetRotation > headsetRotation ? (-1 * headsetRotation) : negheadsetRotation;
+
+		// print(normHeadsetRotation);
+		normHeadsetRotation = map(-90, 90, 100, 1000, normHeadsetRotation);
 		
 		return normHeadsetRotation;
 	}
 
+	// Map function, based off of Processing implementation
+	public float map (float OldMin, float OldMax, float NewMin, float NewMax, float OldValue) {
+     
+        float OldRange = (OldMax - OldMin);
+        float NewRange = (NewMax - NewMin);
+        float NewValue = (((OldValue - OldMin) * NewRange) / OldRange) + NewMin;
+     
+        return NewValue;
+    }
 
 	// Use this for initialization
 	protected virtual void Start () {
@@ -63,6 +75,14 @@ public class SwarmBehavior : MonoBehaviour {
 
 		// Instantiate all the drone prefabs
 		if (make) makeDrones();
+
+		// VR headset
+		float thoughtSpace = lookOffset();
+
+		// Procedurally set thoughtSpace
+		swarmBounds.x = thoughtSpace; 
+		swarmBounds.y = thoughtSpace;
+		swarmBounds.z = thoughtSpace;
 
 		// Auto-Swarm
 		swarmFlock();
@@ -89,14 +109,12 @@ public class SwarmBehavior : MonoBehaviour {
 		*/	
 	}
 
-	protected virtual void OnDrawGizmosSelected()
-	{
+	protected virtual void OnDrawGizmosSelected() {
 		Gizmos.DrawWireCube(transform.position, new Vector3(swarmBounds.x, swarmBounds.y, swarmBounds.z));
 		Gizmos.DrawWireSphere(transform.position, spawnRadius);
 	}
 
-	protected virtual void makeDrones()
-	{
+	protected virtual void makeDrones() {
 		// instantiate the drones
 		GameObject droneTemp;
 		int droneScale;
@@ -137,8 +155,7 @@ public class SwarmBehavior : MonoBehaviour {
 		}
 	}
 
-	protected virtual void swarmFlock()
-	{
+	protected virtual void swarmFlock() {
 		swarmTimer -= Time.deltaTime;
 		// Debug.Log(swarmTimer);
 
@@ -151,7 +168,7 @@ public class SwarmBehavior : MonoBehaviour {
             	swarmBounds.x = 25.0f;
             	swarmBounds.y = 25.0f;
             	swarmBounds.z = 25.0f;
-            	swarmTimer = Random.Range(5.0f , 10.0f);
+            	swarmTimer = Random.Range(2.5f , 5.0f);
             	Debug.Log("Swarming for " + swarmTimer);
 			} 
 			else
